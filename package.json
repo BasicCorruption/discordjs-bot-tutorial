@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasicCorruption/discordjs-bot-tutorial.git"
+  },
+  "author": "BasicCorruption",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BasicCorruption/discordjs-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/BasicCorruption/discordjs-bot-tutorial#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ms": "^2.1.3"
+  }
+}
